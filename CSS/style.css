@@ -1,0 +1,42 @@
+.d1{
+    height: 200px;
+    position: relative;
+    background-color: aquamarine;
+    font-weight: 300;
+}
+#a{
+    color: rgb(255, 0, 0);
+    background-color: rgb(27, 133, 127);
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+#b{
+    color: rgba(255, 0, 0,0.4);
+    background-color: rgb(27, 133, 127);
+    position: relative;
+    top: 100px;
+    left: 20px;
+}
+#c{
+    color: rgb(255, 0, 0);
+    background-color: rgb(27, 133, 127);
+    position: relative;
+    top: 100px;
+    left: 10px;
+}
+
+.d2{
+    height: 200px;
+    padding: 100px;
+    position: relative;
+    background-color: rgb(136, 127, 255);
+    font-weight: 300;
+}
+.d3{
+    height: 200px;
+    position: relative;
+    background-color: rgb(255, 127, 127);
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
